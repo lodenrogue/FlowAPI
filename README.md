@@ -10,7 +10,7 @@ API for optimizing control settings to reach desired flow
 	"numOfControls": 4,
 	"floor": 0.05,
 	"ceiling": 13.1,
-  "timestamp": "2016-09-01T05:18:29.393",
+  	"timestamp": "2016-09-01T05:18:29.393",
 	"headwater": 26.86,
 	"tailwater": 21.1,
 	"timeseriesName": "S65D-S-Q"
