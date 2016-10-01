@@ -5,7 +5,10 @@ API for optimizing control settings to reach desired flow
 ===
 
 ### How to use
-#### Expected input
+#### Expected input 
+
+POST: /flow/api/v1/invert
+
 ~~~
 {
 	"requestedFlow": 2000,
@@ -35,6 +38,9 @@ Definitions:
 ===
 
 #### Expected output
+
+Status: 200 OK
+
 ~~~
 {
   "controlValues": [
