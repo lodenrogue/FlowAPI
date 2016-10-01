@@ -2,6 +2,8 @@
 
 API for optimizing control settings to reach desired flow
 
+===
+
 ### How to use
 #### Expected input
 ~~~
@@ -29,6 +31,8 @@ Definitions:
 | headwater      | Float   | Headwater value to use when calculating flow                                                     |
 | tailwater      | Float   | Tailwater value to use when calculating flow                                                     |
 | timeseriesName | String  | Timeseries name for calculating flow                                                             |
+
+===
 
 #### Expected output
 ~~~
